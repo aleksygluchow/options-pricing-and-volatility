@@ -294,19 +294,5 @@ The results should not be interpreted as investment advice or as a production-gr
 
 Potential directions for further development include:
 
-- Adding real-time risk-free rates
-- Supporting multiple expirations
-- Building a full volatility surface
 - Adding put–call parity checks
 - Calculating Theta and Rho
-- Implementing American option pricing
-- Comparing Black–Scholes volatility with historical volatility
-- Adding interactive Plotly visualizations
-- Testing alternative regression and interpolation methods
-- Creating a dashboard for live volatility monitoring
-
----
-
-## Disclaimer
-
-This repository is an educational quantitative-finance project. It is not financial advice, an investment recommendation or a guarantee of market behavior.
